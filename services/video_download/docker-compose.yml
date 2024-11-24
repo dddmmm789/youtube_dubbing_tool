@@ -1,0 +1,8 @@
+services:
+  video_download_service:
+    build: .
+    volumes:
+      - ${OUTPUT_DIR}:/usr/src/app/downloads
+    environment:
+      - YOUTUBE_URL=${YOUTUBE_URL}
+      - OUTPUT_DIR=/usr/src/app/downloads
