@@ -1,0 +1,3 @@
+services/dubbing/output/*.mp3
+services/dubbing/output/*.mp4
+services/dubbing/output/*.wav

@@ -1,0 +1,4 @@
+.env
+audio_files/
+audio_files_to_split/
+*.sh

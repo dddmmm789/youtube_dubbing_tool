@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "original_duration": 60.16,
+    "new_duration": 112.222,
+    "stretch_ratio": 1.8653922872340425
+  },
+  "segments": [
+    {
+      "id": 0,
+      "text": " Amazon apesta ahora mismo, Uber apesta ahora mismo, Netflix apesta, Facebook apesta, Instagram apesta,",
+      "original_timing": {
+        "start": 0.0,
+        "end": 4.74
+      },
+      "new_timing": {
+        "start": 0.0,
+        "end": 8.841959441489362
+      }
+    },
+    {
+      "id": 1,
+      "text": " todas las grandes empresas tecnológicas están cambiando delante de nuestros ojos, y sé que normalmente intento ver",
+      "original_timing": {
+        "start": 5.08,
+        "end": 9.18
+      },
+      "new_timing": {
+        "start": 9.476192819148936,
+        "end": 17.12430119680851
+      }
+    },
+    {
+      "id": 2,
+      "text": " el lado bueno de la tecnología, pero para este vídeo quiero ser brutalmente honesto.",
+      "original_timing": {
+        "start": 9.18,
+        "end": 12.56
+      },
+      "new_timing": {
+        "start": 17.12430119680851,
+        "end": 23.429327127659576
+      }
+    },
+    {
+      "id": 3,
+      "text": " Creo que la mayoría de estos servicios que utilizamos son peores de lo que se piensa, y quiero que la gente haga algo de eso.",
+      "original_timing": {
+        "start": 12.82,
+        "end": 17.92
+      },
+      "new_timing": {
+        "start": 23.914329122340426,
+        "end": 33.427829787234046
+      }
+    },
+    {
+      "id": 4,
+      "text": " Lo primero que hay que entender es que básicamente todas las grandes empresas tecnológicas siguen exactamente el mismo patrón,",
+      "original_timing": {
+        "start": 18.14,
+        "end": 22.98
+      },
+      "new_timing": {
+        "start": 33.83821609042553,
+        "end": 42.866714760638295
+      }
+    },
+    {
+      "id": 5,
+      "text": " algo que un tipo llamado Corey Doctoro resumió muy bien con el término,",
+      "original_timing": {
+        "start": 23.28,
+        "end": 26.34
+      },
+      "new_timing": {
+        "start": 43.42633244680851,
+        "end": 49.134432845744676
+      }
+    },
+    {
+      "id": 6,
+      "text": " y vocación. Verás, cuando cualquiera de estas empresas empieza, su única oportunidad de triunfar es ir",
+      "original_timing": {
+        "start": 26.34,
+        "end": 32.36
+      },
+      "new_timing": {
+        "start": 49.134432845744676,
+        "end": 60.364094414893614
+      }
+    },
+    {
+      "id": 7,
+      "text": " por encima y más allá para sus usuarios resolviendo un problema clave. Tomemos el ejemplo de Uber.",
+      "original_timing": {
+        "start": 32.36,
+        "end": 37.72
+      },
+      "new_timing": {
+        "start": 60.364094414893614,
+        "end": 70.36259707446808
+      }
+    },
+    {
+      "id": 8,
+      "text": " Uber llegó en 2009, y recuerdo que lo usé por primera vez en esa época y pensé,",
+      "original_timing": {
+        "start": 38.98,
+        "end": 42.78
+      },
+      "new_timing": {
+        "start": 72.71299135638297,
+        "end": 79.80148204787234
+      }
+    },
+    {
+      "id": 9,
+      "text": " este es el fin de los taxis tradicionales. Esto es mucho más cómodo. Los taxis me encuentran, en lugar de",
+      "original_timing": {
+        "start": 42.78,
+        "end": 48.04
+      },
+      "new_timing": {
+        "start": 79.80148204787234,
+        "end": 89.6134454787234
+      }
+    },
+    {
+      "id": 10,
+      "text": " al revés, que la conducción es más amigable, que los coches son más limpios, e hizo todo eso",
+      "original_timing": {
+        "start": 48.04,
+        "end": 51.96
+      },
+      "new_timing": {
+        "start": 89.6134454787234,
+        "end": 96.92578324468084
+      }
+    },
+    {
+      "id": 11,
+      "text": " siendo mucho más barato. Al principio, Uber costaba un 50%, a veces un 30%, del precio de un taxi tradicional,",
+      "original_timing": {
+        "start": 51.96,
+        "end": 59.1
+      },
+      "new_timing": {
+        "start": 96.92578324468084,
+        "end": 110.24468417553192
+      }
+    },
+    {
+      "id": 12,
+      "text": " y entonces no es...",
+      "original_timing": {
+        "start": 59.6,
+        "end": 60.16
+      },
+      "new_timing": {
+        "start": 111.17738031914894,
+        "end": 112.222
+      }
+    }
+  ]
+}

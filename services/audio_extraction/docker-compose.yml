@@ -1,0 +1,11 @@
+services:
+  audio_extraction_service:
+    build: .
+    volumes:
+      - ${INPUT_VIDEO_DIR}:/usr/src/app/input_videos
+      - ${OUTPUT_AUDIO_DIR}:/usr/src/app/audio_files
+    env_file:
+      - .env
+    environment:
+      - VIDEO_FOLDER=/usr/src/app/input_videos
+      - AUDIO_OUTPUT_FOLDER=/usr/src/app/audio_files
