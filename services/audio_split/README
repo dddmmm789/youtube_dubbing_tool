@@ -1,0 +1,37 @@
+Audio Splitter Service (Colab)
+A simple Google Colab service that automatically splits audio files into vocals and accompaniment using Spleeter.
+Setup
+Create these folders in your Google Drive:
+AudioSplitter/
+    ├── input/     (for WAV files to process)
+    └── output/    (where split files will appear)
+2. Open spleeter-service.ipynb in Google Colab
+3. Run the notebook cell
+It will ask to mount your Google Drive
+Click "Connect to Google Drive" when prompted
+The service will start automatically
+
+Usage
+
+1. Upload WAV files to AudioSplitter/input folder in your Google Drive
+2. The service will:
+Detect new WAV files
+Process them with Spleeter
+Save split files to AudioSplitter/output
+Remove processed files from input folder
+3. Find your processed files in the output folder:
+   AudioSplitter/output/
+       └── your_file_name/
+           ├── vocals.wav
+           └── accompaniment.wav
+Notes
+The service checks for new files every 5 seconds
+Only processes WAV files
+Keep the Colab notebook running while processing
+Files are automatically deleted from input after successful processing
+Troubleshooting
+If files aren't being processed:
+1. Make sure the Colab notebook is running
+Check that files are WAV format
+Verify the correct folder structure in Drive
+Look for error messages in the Colab output
